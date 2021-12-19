@@ -390,6 +390,10 @@ Publish the website in the given URL.
 ### Contact Us Page:
 
 ![output](./images/output4.png)
+
+### HTML Validator:
+
+![output](./images/output5.png)
 ## Result:
 
 Thus a website is designed for the software product company and the HTML,CSS code are validated.
